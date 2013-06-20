@@ -1,0 +1,38 @@
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.Menu.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.Form1.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.ImposeFee.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.Resources.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.MySetting.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Release\CollegeFeeMaster.exe.config
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Release\CollegeFeeMaster.exe
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Release\CollegeFeeMaster.pdb
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Release\CollegeFeeMaster.xml
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.exe
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.xml
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.pdb
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Release\CollegeFeeMaster.exe.config
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Release\CollegeFeeMaster.exe
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Release\CollegeFeeMaster.pdb
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Release\CollegeFeeMaster.xml
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\ResolveAssemblyReference.cache
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.ChangePassword.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.MdIFORM.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.Form1.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.ImposeFee.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.LoginForm.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.Resources.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.MySetting.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\GenerateResource.read.1.tlog
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\GenerateResource.write.1.tlog
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.exe
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.xml
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.pdb
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.StudentWiseFeeImpose.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.FeeDueReport.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Release\CollegeFeeMaster.exe.manifest
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Release\CollegeFeeMaster.application
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.exe.manifest
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Release\CollegeFeeMaster.application

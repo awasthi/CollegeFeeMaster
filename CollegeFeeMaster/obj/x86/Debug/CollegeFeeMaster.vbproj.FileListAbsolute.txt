@@ -1,0 +1,84 @@
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.config
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.pdb
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.xml
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Menu.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Form1.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ImposeFee.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Resources.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MySetting.resources
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.xml
+C:\Users\ws1\AppData\Local\Temporary Projects\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.pdb
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.config
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.xml
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.pdb
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.pdb
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.xml
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ChangePassword.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MdIFORM.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Form1.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ImposeFee.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.LoginForm.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Resources.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MySetting.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.StudentWiseFeeImpose.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.FeeDueReport.resources
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.manifest
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.application
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe.manifest
+D:\surabhi data\Surabhi\work\Data Window  Application\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.application
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.config
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.xml
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.pdb
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.manifest
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.application
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.pdb
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.xml
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ChangePassword.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MdIFORM.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Form1.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.FeeDueReport.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ImposeFee.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.StudentWiseFeeImpose.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.LoginForm.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Resources.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MySetting.resources
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe.manifest
+C:\Users\awasthi\Desktop\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.application
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.config
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.xml
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.pdb
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe.manifest
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.application
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.exe
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.pdb
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\bin\Debug\CollegeFeeMaster.xml
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ChangePassword.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MdIFORM.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Form1.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.FeeDueReport.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.ImposeFee.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.StudentWiseFeeImpose.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.LoginForm.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.Resources.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.MySetting.resources
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.exe.manifest
+C:\Users\awasthi\Documents\CollegeFeeMaster\CollegeFeeMaster\obj\x86\Debug\CollegeFeeMaster.application
